@@ -526,5 +526,6 @@ figure.shot figcaption{font-size:14.5px;color:#33435C;margin-top:10px;line-heigh
 .soc-tg{background:#229ED9}
 .soc-fb{background:#1877F2}
 .soc-ig{background:linear-gradient(45deg,#F58529,#DD2A7B,#8134AF)}
+.soc-pin{background:#E60023}
 .soc:hover{transform:translateY(-2px);filter:brightness(1.08)}
 .soc:hover svg{fill:#fff}
